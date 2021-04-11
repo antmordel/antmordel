@@ -1,4 +1,4 @@
-### Hola 👋
+### Hola 👋👨🏻‍💻
 
 I'm Nito. I'm a full-time software engineer. And I love learning new stuff related to engineering. My main motivation is
 to do applications that are heavily used and which use-cases matter (i.e. **software that matters**). Attracted by
@@ -10,6 +10,14 @@ might find below.
 
 **My career on a map** 🗺
 <img src="assets/mapcv-min.png" />
+
+**What I feel comfortable with** 🔧</br>
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
+
 
 <!--
 **antmordel/antmordel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
