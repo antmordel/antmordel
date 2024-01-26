@@ -12,7 +12,7 @@ might find below.
 ## Where we can meet 📣
 
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChAWeKzmYmIDOOC5EMIH5CQ)
-- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+- ![Instagram](https://img.shields.io/badge/Instagram-E4405F)
 
 ## Certifications
 
