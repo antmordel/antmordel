@@ -13,6 +13,7 @@ might find below.
 
 - [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChAWeKzmYmIDOOC5EMIH5CQ)](https://www.youtube.com/channel/UChAWeKzmYmIDOOC5EMIH5CQ)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F)](https://www.instagram.com/nito__moreno/)
+- [![Linkedin](https://img.shields.io/badge/linkedin-0077b5)](https://www.linkedin.com/in/antoniomorenodelgado/)
 
 ## Certifications
 
