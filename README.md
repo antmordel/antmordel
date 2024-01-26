@@ -9,6 +9,11 @@ business every change that they do.
 Since I mainly learn from others, I also want to give back to the community creating some learning content, which you
 might find below.
 
+## Where we can meet 📣
+
+- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChAWeKzmYmIDOOC5EMIH5CQ)
+- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
 ## Certifications
 
 <table>
